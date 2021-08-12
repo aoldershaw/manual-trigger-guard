@@ -21,7 +21,6 @@ resources:
     - some-user
     teams:
     - concourse/maintainers
-  check_every: never
 
 jobs:
 - name: some-job
